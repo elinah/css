@@ -1,0 +1,23 @@
+body {
+	color: lightblue;
+	background-color: pink;
+}
+
+h1 {
+	font-size: 2em;
+	text-align: center;
+}
+
+h3 {
+	color: #FF00FF;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Times New Roman"
+}
+
+p {
+	font-family: verdana;
+}
+	
