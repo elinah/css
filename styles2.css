@@ -22,3 +22,16 @@ h2 {
 p {
   font-family: verdana;
 }
+
+.extreme {
+	text-align: center;
+}
+
+#head1 {
+	font-family: Arial;
+}
+
+.content {
+	font-size: 2em;
+	font-style: italic;
+}
