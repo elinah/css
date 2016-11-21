@@ -1,0 +1,33 @@
+body {
+  background-color: #FCDEBE;
+  color: #5E5768;
+}
+
+.first {
+  text-align: center;
+}
+
+#para {
+  text-shadow: 2px 2px #e8f0f7;
+  font-size: 2em;
+}
+
+#blue:hover {
+  color: #88b1aa;
+  cursor: crosshair;
+}
+
+.para2 {
+  cursor: pointer;
+  color: #2c4150;
+}
+
+#list {
+  text-decoration: none;
+  transition: color 2s
+}
+
+#list:hover {
+  cursor: wait;
+  color: darkblue;
+}
